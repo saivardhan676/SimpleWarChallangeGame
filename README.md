@@ -21,9 +21,8 @@ The game is a digital version of the classic card game "War":
 ## 📱 Screenshots
 | Main Gameplay |
 | :---: |
-| ![Gameplay Screenshot](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-04 at 23 40 32" src="https://github.com/user-attachments/assets/12d40fb6-239c-47f4-9302-8bf4b71b7e01" />
-) |
-*(Pro-tip: Replace the link above with an actual screenshot or GIF of your app!)*
+|<img width="300" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-04 at 23 40 32" src="https://github.com/user-attachments/assets/12d40fb6-239c-47f4-9302-8bf4b71b7e01" /> <img width="300" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-04 at 23 40 33" src="https://github.com/user-attachments/assets/92e4f55e-98ac-4fbf-b400-a4dda85c7faf" /> <img width="300" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-04 at 23 40 34" src="https://github.com/user-attachments/assets/9e23aa49-2254-4bb9-bc88-48208e94926c" />|
+
 
 ## 🛠️ Setup
 To run this project locally:
